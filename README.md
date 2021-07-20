@@ -5,7 +5,7 @@
 
 **Back-end file: travelopedia.sql**
 
-**Languages used: HTML, CSS, JS, BootStrap, PHP, SQL.**
+**Languages used: HTML, CSS, JS, BootStrap, PHP, MySql.**
 ##
 
 # **FRONTEND :**
