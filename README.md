@@ -26,6 +26,7 @@ It provides details about the company.**
 
 **-->The Domestic and International dropdown categories has 2 options. The first one is 'Book Now'. From the given 4 tour agencies option, one can select the best deal according to them and then book the package. Otherwise if one doesn't like any of the packages then he/she can customise the tour themselves.**
 ![image](https://user-images.githubusercontent.com/87112390/126313658-f55a38e5-30f6-4fec-b861-c94ee01ccda8.png)
+![image](https://user-images.githubusercontent.com/87112390/126369031-448891dd-b5bb-4202-8b47-1bd221561221.png)
 
 
 
