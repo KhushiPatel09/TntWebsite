@@ -8,7 +8,9 @@
 **Languages used: HTML, CSS, JS, BootStrap, PHP, MySql.**
 ##
 
-**Purpose: This is a Tour and Travel Agency site. It is designed to help user plan a trip in an easy & convenient way. The user is provided with 2 options - domestic and international. He/She can choose a place from it and select the best package according to them. Later a form will appear in which they will be asked for their details. Also if the user doesn't like any of the provided packages then he/she can customise the package in his/her on way.**
+**Purpose: This is a Tour and Travel Agency site. It is designed to help user plan a trip in an easy & convenient way. The user is provided with 2 options - domestic and international. He/She can choose a place from it and select the best package according to them. Later a form will appear in which they will be asked for their details. Also if the user doesn't like any of the provided packages then he/she can customise the package in his/her own way.**
+
+**At admin desk - admin or staff member can login using the credentials provided below. There are several functionalities at the admin end. Any changes admin or staff member makes will be reflected on the website.**
 
 # **FRONTEND :**
 
